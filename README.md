@@ -22,8 +22,10 @@ into this:
 ## Device view
 
 | Mobile | Desktop |
-|---- | ----- |
-| [Mobile view](../images/mobile_view.png) | [Desktop View](../images/desktop_view.png) |
+| ---- | ----- |
+| ![Mobile view](/images/mobile_view.png) | ![Desktop View](/images/desktop_view.png) |
+
+
 
 
 ## Technologies
