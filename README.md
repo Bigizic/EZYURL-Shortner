@@ -3,11 +3,11 @@ EzyURl Shortner
 </h1>
 
 
-#### Welcome to EzyUrl, where long URLs meet their match! 🚀
+<h3 align="center">
+Welcome to EzyUrl, where long URLs meet their match! 🚀
+</h3>
 
-#### In a world where time is of the essence, brevity rules supreme. Say goodbye to those lengthy,
-#### tongue-twisting web addresses that make link-sharing a hassle. EzyUrl is here to transform your URL game,
-#### making sharing and managing links an absolute breeze.
+#### In a world where time is of the essence, brevity rules supreme. Say goodbye to those lengthy, tongue-twisting web addresses that make link-sharing a hassle. EzyUrl is here to transform your URL game, making sharing and managing links an absolute breeze.
 
 #### What's the Buzz About EzyUrl? 🌟
 #### Imagine turning this maze of a link:
