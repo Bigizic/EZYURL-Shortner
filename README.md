@@ -1,4 +1,7 @@
-# EzyURl Shortner
+<h1 align="center">
+EzyURl Shortner
+</h1>
+
 
 #### Welcome to EzyUrl, where long URLs meet their match! 🚀
 
