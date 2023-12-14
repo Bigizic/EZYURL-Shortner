@@ -23,7 +23,7 @@ into this:
 
 | Mobile | Desktop |
 |---- | ----- |
-
+| [Mobile view](../images/mobile_view.png) | [Desktop View](../images/desktop_view.png) |
 
 
 ## Technologies
