@@ -29,30 +29,36 @@ into this:
 
 
 ## Technologies
-* Python
-* Javascript
-* Html
-* Css
-* Mysql, MySql Alchemy
-* Flask
-* Jquery
-* Gunicorn
-* Rest API
-* Nginx
-* Chart.js
-* bootstrap
-
+* ``Python``
+* ``Javascript``
+* ``Html``
+* ``Css``
+* ``Mysql, MySql Alchemy``
+* ``Flask``
+* ``Jquery``
+* ``Gunicorn``
+* ``Rest API``
+* ``Nginx``
+* ``Chart.js``
+* ``Bootstrap``
+* ``Htmx``
 
 ## Technology Choices
-* Database Management: We chose MySQL for its robustness and reliability over alternatives like PostgreSQL. While both are excellent choices, MySQL aligns better with our project's scalability needs.
-* Frontend Framework: Initially, we considered React and Vue.js for the frontend. We decided on plain JavaScript for a lightweight and fast user experience, allowing us to cater to a wider audience without sacrificing performance.
+
+* ``Database Management:`` We chose MySQL for its robustness and reliability over alternatives like PostgreSQL. While both are excellent choices, MySQL aligns better with our project's scalability needs.
+
+* ``Frontend Framework:`` Initially, we considered html, htmx and jquery for the frontend. We decided on plain JavaScript for a lightweight and fast user experience, allowing us to cater to a wider audience without sacrificing performance.
 
 
 ## Challenge
-### Problem Statement
+
+### Problem Statement:
+
 EzyURL Shortener addresses the issue of cumbersome and lengthy URLs, making online communication more efficient by transforming them into concise, easy-to-share links.
 
-### What EzyURL Shortener Does Not Solve
+
+### What EzyURL Shortener Does Not Solve:
+
 * Offline Usage: EzyURL Shortener relies on an active internet connection and won't work in scenarios with limited or no internet access.
 * Longevity: EzyURL is designed with a limited lifespan in mind. It may not be suitable for content that needs to remain accessible indefinitely.
 
