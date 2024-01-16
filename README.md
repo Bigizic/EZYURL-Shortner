@@ -25,7 +25,7 @@ into this:
 | ---- | ----- |
 | ![Mobile view](/images/img_no_user.png) | ![Desktop View](/images/desktop_view.png) |
 
-#### Check this page for Ezy url shortner on Ios shortcut
+#### Ios shortcut for Ezy url shortner here
 
 
 
