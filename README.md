@@ -1,15 +1,15 @@
 <h1 align="center">
-EzyURl Shortner
+EZYURL Shortner
 </h1>
 
-
+<img src="/images/wrapper.png">
 <h3 align="center">
-Welcome to EzyUrl, where long URLs meet their match! 🚀
+Welcome to EZYURL, where long URLs meet their match! 🚀
 </h3>
 
 #### In a world where time is of the essence, brevity rules supreme. Say goodbye to those lengthy, tongue-twisting web addresses that make link-sharing a hassle. EzyUrl is here to transform your URL sharing and managing an absolute breeze.
 
-#### What's the Buzz About EzyUrl? 🌟
+#### What's the Buzz About EZYURL? 🌟
 #### Imagine turning this maze of a link:
 
 
@@ -18,16 +18,6 @@ Welcome to EzyUrl, where long URLs meet their match! 🚀
 into this: 
 
         https://ezyurl.xyz/dfgdskt
- 
-## Device view
-
-| Mobile | Desktop |
-| ---- | ----- |
-| ![Mobile view](/images/IMG_2271.jpeg) | ![Desktop View](/images/desktop_view.png) |
-
-#### Ios shortcut for Ezy url shortner here
-
-
 
 ## Technologies
 * ``Python``
@@ -43,6 +33,19 @@ into this:
 * ``Chart.js``
 * ``Bootstrap``
 * ``Htmx``
+
+ 
+## Device view
+
+| Mobile | Desktop |
+| ---- | ----- |
+| ![Mobile view](/images/IMG_2271.jpeg) | ![Desktop View](/images/desktop_view.png) |
+
+
+
+
+
+
 
 ## Technology Choices
 
@@ -92,6 +95,7 @@ We populate our app with data using automated scripts and user-generated content
 ### Testing
 We employ a comprehensive testing strategy, including unit, integration, and end-to-end testing. Automated testing tools and manual testing ensure the reliability and functionality of our application
 
+#### Ios shortcut for Ezy url shortner here
 
 
 ## The Team
