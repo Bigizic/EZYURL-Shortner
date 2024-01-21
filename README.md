@@ -23,7 +23,7 @@ into this:
 
 | Mobile | Desktop |
 | ---- | ----- |
-| ![Mobile view](/images/img_no_user.png) | ![Desktop View](/images/desktop_view.png) |
+| ![Mobile view](/images/IMG_2271.jpeg) | ![Desktop View](/images/desktop_view.png) |
 
 #### Ios shortcut for Ezy url shortner here
 
